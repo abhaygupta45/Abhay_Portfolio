@@ -18,18 +18,18 @@ const greeting = {
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
     "#",
-  mail: "mailto:hrishipatel99@gmail.com",
+  mail: "ab04012003@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/Abhaygupta45",
+  linkedin: "https://www.linkedin.com/in/abhay-gupta-458966211/",
+  gmail: "ab04012003@gmail.com",
   gitlab: " ",
-  facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  facebook: "https://www.facebook.com/profile.php?id=100090727955876",
+  twitter: "https://twitter.com/Abhaygupta0401",
+  instagram: "",
 };
 
 const skills = {
@@ -38,9 +38,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and native Android",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end using HTML, CSS, and Javascript",
+        "⚡ Building responsive website back end using PHP, MySQL",
+        // "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
         {
@@ -322,10 +322,10 @@ const degrees = {
   degrees: [
     {
       title: "Sage University",
-      subtitle: "Masters in Applied Computer Science",
+      subtitle: "Bachelors's in Computer Application ",
       logo_path: "dal.png",
       alt_name: "DAL",
-      duration: "2022 - 2023",
+      duration: "2022 - 2025",
       descriptions: [
         "⚡ Studied Advanced Software Development Concepts, Data Managmenet & Warehousing",
         "⚡ Also studied Mobile Computing, Severless Data Processing and created projects on them",
@@ -335,10 +335,10 @@ const degrees = {
     },
     {
       title: "Abroad Academy co-ed High Secondry School",
-      subtitle: "B.Tech. in Computer Engineering",
+      subtitle: "Higher Education and Higher Secondry Education",
       logo_path: "sal.png",
       alt_name: "SETI",
-      duration: "2017 - 2021",
+      duration: "2018 - 2022",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",

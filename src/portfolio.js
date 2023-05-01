@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "#",
+    "https://docs.google.com/document/d/14lYO7csYTUkMYKI7OMRiPwR5AiDjm0JaTBezTq3z9Mg/edit",
   mail: "ab04012003@gmail.com",
 };
 
@@ -476,17 +476,17 @@ const experience = {
     {
       title: "Work",
       experiences: [
-        {
-          title: "Full Stack Developer",
-          company: "Quicko",
-          company_url: "https://quicko.com/",
-          logo_path: "quicko.jpg",
-          duration: "June 2021 - October 2021",
-          location: "Ahmedabad",
-          description:
-            "Quicko is an online tax planning, preparation & filing platform for individuals & businesses.",
-          color: "#2962FF",
-        },
+        // {
+        //   title: "Full Stack Developer",
+        //   company: "Quicko",
+        //   company_url: "https://quicko.com/",
+        //   logo_path: "quicko.jpg",
+        //   duration: "June 2021 - October 2021",
+        //   location: "Ahmedabad",
+        //   description:
+        //     "Quicko is an online tax planning, preparation & filing platform for individuals & businesses.",
+        //   color: "#2962FF",
+        // },
       ],
     },
     {
@@ -606,8 +606,8 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Medium.",
-    link: "https://medium.com/@hrishipatel99",
+      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Linkedin.",
+    link: "https://www.linkedin.com/in/abhay-gupta-458966211/",
     avatar_image_path: "blogs_image.svg",
   },
 };

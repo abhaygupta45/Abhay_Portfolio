@@ -70,7 +70,7 @@ function Contact(props) {
               </p>
               <div className="blogsite-btn-div">
                 <a {...styles} className="general-btn" href={blogSection.link}>
-                  My Medium Profile
+                  My Linked Profile
                 </a>
               </div>
             </div>

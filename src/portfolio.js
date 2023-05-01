@@ -325,10 +325,10 @@ const degrees = {
       subtitle: "Bachelors's in Computer Application ",
       logo_path: "dal.png",
       alt_name: "DAL",
-      duration: "2022 - 2025",
+      duration: "2022 - present",
       descriptions: [
-        "⚡ I have studied core subjects like Data Structures and algorithm, COA, Operating System, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for ML/DL, Web Development, etc.",
+        "⚡ I have studied core subjects like Data Structures and algorithm, COA, Operating System, Computer Network, Core Java and Introduction to cloud computing etc.",
+        // "⚡ I have also completed various online courses for ML/DL, Web Development, etc.",
         "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
       website_link: "https://sageuniversity.edu.in/",

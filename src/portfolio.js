@@ -29,7 +29,7 @@ const socialMediaLinks = {
   gitlab: " ",
   facebook: "https://www.facebook.com/profile.php?id=100090727955876",
   twitter: "https://twitter.com/Abhaygupta0401",
-  instagram: "",
+  instagram: "https://instagram.com/abhhiiiiiiiiii__?igshid=ZDdkNTZiNTM=",
 };
 
 const skills = {
@@ -321,17 +321,17 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Sage University",
+      title: "Sage University, Bhopal",
       subtitle: "Bachelors's in Computer Application ",
       logo_path: "dal.png",
       alt_name: "DAL",
       duration: "2022 - 2025",
       descriptions: [
-        "⚡ Studied Advanced Software Development Concepts, Data Managmenet & Warehousing",
-        "⚡ Also studied Mobile Computing, Severless Data Processing and created projects on them",
-        "⚡ Upcoming courses: Advanced Topics in Web Development and Cloud Computing",
+        "⚡ I have studied core subjects like Data Structures and algorithm, COA, Operating System, DBMS, Networking, Security, etc.",
+        "⚡ I have also completed various online courses for ML/DL, Web Development, etc.",
+        "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
-      website_link: "https://www.dal.ca/",
+      website_link: "https://sageuniversity.edu.in/",
     },
     {
       title: "Abroad Academy co-ed High Secondry School",
@@ -340,9 +340,9 @@ const degrees = {
       alt_name: "SETI",
       duration: "2018 - 2022",
       descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
+        "⚡  I achieved a percentage of 92 in my 10th-grade exams. I am proud of my academic performance and grateful for the support that has helped me achieve this result.",
+        "⚡  I obtained a percentage of 86 in my 12th-grade exams. This achievement reflects my dedication to academic excellence.",
+        // "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
       website_link: "https://www.sal.edu.in/",
     },
@@ -470,7 +470,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed two internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "Currently I am not completed any internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
   header_image_path: "experience.svg",
   sections: [
     {

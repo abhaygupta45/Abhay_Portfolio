@@ -342,7 +342,7 @@ const degrees = {
       descriptions: [
         "⚡  I achieved a percentage of 92 in my 10th-grade exams. I am proud of my academic performance and grateful for the support that has helped me achieve this result.",
         "⚡  I obtained a percentage of 86 in my 12th-grade exams. This achievement reflects my dedication to academic excellence.",
-        // "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
+        "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
       website_link: "https://www.sal.edu.in/",
     },

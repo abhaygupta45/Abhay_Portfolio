@@ -254,6 +254,7 @@ const skills = {
         },
       ],
     },
+    /*
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
@@ -317,6 +318,7 @@ const skills = {
     },
   ],
 };
+*/
 
 const degrees = {
   degrees: [

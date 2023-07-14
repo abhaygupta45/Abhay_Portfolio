@@ -315,10 +315,9 @@ const skills = {
           },
         },
       ],
-    },
+    },*/
   ],
 };
-*/
 
 const degrees = {
   degrees: [
